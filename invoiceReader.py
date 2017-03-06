@@ -11,7 +11,9 @@ print(file_text)
 for time_pair in times:
 	total_time += time_difference(time_pair.split(" ")[0], time_pair.split(" ")[1])
 total_pay = float(file_text.split("\n")[-2].split('£')[1]);
-print(total_pay/total_time)
+print("hours worked: " + total_time)
+print("total pay: " + total_pay)
+print("hourly rate: " + total_pay/total_time)
 # total_income_line = re.search(r'Total £(\d)*.\d\d', file_text)
 # total_income = float(total_income_line.split('£')[1].
 # print("£" + str(total_income/total_time))
