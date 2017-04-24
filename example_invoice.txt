@@ -1,0 +1,42 @@
+Roofoods Limited
+22-24 Torrington Place
+London, United Kingdom WC1E 7HJ
+Company Number: 08167130
+Payment for Services Rendered: 19 February, 2017 - 04 March, 2017
+Services Rendered: Restaurant Food and Beverage Delivery
+Pay to: Joe Bloggs
+Invoice Date: 06 March, 2017
+Service Hours - 19 February 2017 - 04 March 2017
+Day Date From To Hours Orders Delivered Total Pay
+Sunday 19 February 2017 17:16 18:30 4 × (4.25) £17.00
+Sunday 19 February 2017 18:30 21:30 6 × (4.25) Guaranteed £31.88
+Sunday 19 February 2017 21:30 22:22 2 × (4.25) £8.50
+Sunday 19 February 2017 11:59 14:30 3 × (4.25) Guaranteed £21.25
+Sunday 19 February 2017 14:30 14:41 0 × (4.25) £0.00
+Tuesday 21 February 2017 19:20 21:30 10 × (3.75) £37.50
+Tuesday 21 February 2017 21:30 23:11 3 × (3.75) £11.25
+Tuesday 21 February 2017 11:26 12:59 1 × (3.75) £3.75
+Saturday 25 February 2017 17:39 18:30 2 × (4.25) £8.50
+Saturday 25 February 2017 18:30 21:30 8 × (4.25) £34.00
+Saturday 25 February 2017 21:30 22:34 1 × (4.25) £4.25
+Saturday 25 February 2017 11:57 14:29 2 × (4.25) Guaranteed £22.10
+Sunday 26 February 2017 18:31 21:30 11 × (4.25) £46.75
+Sunday 26 February 2017 21:30 22:12 1 × (4.25) £4.25
+Monday 27 February 2017 19:20 21:30 9 × (3.75) £33.75
+Monday 27 February 2017 21:30 21:44 0 × (3.75) £0.00
+Wednesday 01 March 2017 18:47 21:30 6 × (3.75) £22.50
+Wednesday 01 March 2017 21:30 22:06 1 × (3.75) £3.75
+Thursday 02 March 2017 22:27 22:44 0 × (3.75) £0.00
+Friday 03 March 2017 18:15 18:30 1 × (4.25) £4.25
+Friday 03 March 2017 18:30 21:01 7 × (4.25) £29.75
+Friday 03 March 2017 12:28 13:58 4 × (4.25) £17.00
+Saturday 04 March 2017 18:30 21:30 9 × (4.25) £38.25
+Saturday 04 March 2017 21:30 22:12 2 × (4.25) £8.50
+1
+Summary
+Drop pay £3.75/order × 30 orders = £112.50
+£4.25/order × 63 orders = £267.75
+Guarantee rates £28.48
+Tips £21.00
+Total £429.73
+2
